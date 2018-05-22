@@ -8,7 +8,7 @@ Created March, 2018.
 
 * The excellent lessons on Udacity.
 * My peers and mentors who have helped get to this step in so many ways.
-* W3 Schools "How To" on modals, as cited in index.html.
+* W3Schools' "How To" on modals, as cited in index.html.
 
 ## Authors
 
