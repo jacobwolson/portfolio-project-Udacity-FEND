@@ -1,0 +1,23 @@
+/* Mid-small viewport footer styles */
+footer {
+  font-size: 0.9em;
+}
+
+/* Mid-small viewport hero section styles */
+#hero-text {
+  padding-top: 1.1em;
+}
+#hero-image-attribution {
+  font-size: 0.65em;
+}
+
+/* Mid-small viewport projects section styles */
+#projects-container {
+  margin-top: 1.1em;
+}
+
+/* Mid-small viewport footer styles */
+#copyright,
+#email {
+  padding: 0 1em;
+}
