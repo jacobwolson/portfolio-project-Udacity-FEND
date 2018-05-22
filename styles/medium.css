@@ -1,11 +1,15 @@
 /*Medium viewport header-specific styles*/
+header {
+  margin-bottom: 0.06em;
+}
+
 #header-container {
  padding: 0.5em 1.5em 0.5em 1.2em;
 }
 
 #header-text {
-  padding: 0.15em 0.05em 0.65em 0.3em;
-  font-size: 1.3em;
+  padding: 0.15em 0.05em 0.47em 0.32em;
+  font-size: 1.2em;
 }
 
 #logo {
@@ -20,9 +24,6 @@
 }
 
 /* Medium viewport hero section styles */
-#hero-container {
-  margin-top: 0.115em;
-}
 #hero-text {
   padding-top: 1.2em;
   font-size: 1.2em;
