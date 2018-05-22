@@ -9,6 +9,10 @@
   width: 100%;
 }
 
+/* Large viewport logo-attribution popover styles */
+#logo-attribution {
+  margin: 2.1% auto;
+
 /* Large viewport header-specific styles */
 header {
   margin-bottom: 0.07em;
@@ -34,11 +38,6 @@ header {
   max-width: 3.7em;
   max-height: 3.7em;
   padding: 0.2em 0 0 0.25em;
-}
-
-/* large viewport footer styles */
-footer {
-  margin-top: 0.5em;
 }
 
 /* Large viewport hero section styles */
