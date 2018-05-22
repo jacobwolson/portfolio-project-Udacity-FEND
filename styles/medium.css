@@ -1,0 +1,81 @@
+/*Medium viewport header-specific styles*/
+#header-container {
+ padding: 0.5em 1.5em 0.5em 1.2em;
+}
+
+#header-text {
+  padding: 0.15em 0.05em 0.65em 0.3em;
+  font-size: 1.3em;
+}
+
+#logo {
+  max-width: 3.4em;
+  max-height: 3.4em;
+  padding: 0.2em 0 0.1em 0.05em;
+}
+
+/* Medium viewport footer-specific styles*/
+#footer-container {
+  padding: 0.3em 2em 0.3em 2em;
+}
+
+/* Medium viewport hero section styles */
+#hero-container {
+  margin-top: 0.115em;
+}
+#hero-text {
+  padding-top: 1.2em;
+  font-size: 1.2em;
+}
+
+#hero-image-attribution {
+  font-size: 0.67em;
+}
+
+/* Medium viewport project section styles */
+#projects-container {
+  margin-top: 1.5em;
+  margin-bottom: 0;
+}
+
+#projects-headline {
+  padding-top: 0.25em;
+}
+
+#project-box-container {
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-top: 0.7em;
+}
+
+.project-box {
+  padding: 0.5em;
+}
+
+.project-box-headline {
+  margin: 0 0 0.65em 0;
+}
+
+.project-details {
+  padding: 0.3em 0 0.7em 0;
+  margin: 0;
+}
+
+.project-source {
+  padding: 0;
+  margin: 0;
+}
+
+/* Medium viewport aside styles */
+.aside-container {
+  padding-top: 2em;
+}
+
+#accomplish-award-list {
+  padding: 1.2em 1.5em 1em 3em;
+}
+
+.accomplish-award-li {
+  padding-bottom: 0.5em;
+}
