@@ -10,6 +10,11 @@
 }
 
 /* Large viewport header-specific styles */
+header {
+  margin-bottom: 0.07em;
+  border-bottom: 1px solid #778899;
+}
+
 #header-container {
   border: none;
 }
@@ -22,6 +27,7 @@
 #header-text {
   padding: 0.7em 0.7em 1em 0.4em;
   font-family: "Lato";
+  font-size: 1.3em;
 }
 
 #logo {
@@ -42,7 +48,6 @@ footer {
 
 #hero-container {
   height: 35em;
-  margin-top: 0.125em;
   background-position: center 60%;
 }
 
