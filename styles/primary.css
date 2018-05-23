@@ -121,7 +121,7 @@ footer {
 }
 /* Hero section styles */
 #hero-container {
-  background-image: url("images/iceland-spar.jpg");
+  background-image: url("../images/iceland-spar.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
