@@ -9,9 +9,11 @@
   width: 100%;
 }
 
-/* Large viewport logo-attribution popover styles */
+/* Large viewport logo-attribution styles */
 #logo-attribution {
   margin: 2.1% auto;
+}
+
 
 /* Large viewport header-specific styles */
 header {
