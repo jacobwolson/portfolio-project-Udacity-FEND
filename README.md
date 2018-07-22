@@ -4,7 +4,7 @@ My work for Project One of Udacity's Front End Web Development Nanodegree progra
 
 Created March, 2018.
 
-## Aknowledgments
+## Acknowledgments
 
 * The excellent lessons on Udacity.
 * My peers and mentors who have helped get to this step in so many ways.
